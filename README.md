@@ -76,8 +76,10 @@ Verifica que la IP detectada sea correcta.
 
 <img width="338" height="119" alt="Captura de pantalla 2025-08-08 142317" src="https://github.com/user-attachments/assets/e0ab8373-eb55-4215-a8f0-1f3b98995997" />
 
-Presionar **Seleccionar .rb** y elegir el exploit correspondiente, disponible en el repositorio oficial de Metasploit:  
-🔗 [https://github.com/rapid7/metasploit-framework/pull/20409](https://github.com/rapid7/metasploit-framework/pull/20409)  
+Presionar **Seleccionar .rb** y elegir el exploit correspondiente, disponible en el repositorio oficial de Metasploit: 
+🔗[https://github.com/UnHackerEnCapital/RiCharEpoint/blob/main/RiCharEpoint.rb](https://github.com/UnHackerEnCapital/RiCharEpoint/blob/main/RiCharEpoint.rb)
+ 
+Creditos : https://github.com/rapid7/metasploit-framework/pull/20409
 
 Este script fue desarrollado por un grupo de profesionales y adaptado para uso en este GUI.
 
